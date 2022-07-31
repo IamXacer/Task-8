@@ -1,7 +1,7 @@
 type StateType = {
     age: number
     childrenCount: number
-    name: string
+    name: string,
 }
 type ActionType = {
     type: string
